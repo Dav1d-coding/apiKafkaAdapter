@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "JMSType": "firstType",
+      "topic": "NameTopicFirst",
+      "reciever": "DOG"
+    },
+    {
+      "JMSType": "secondType",
+      "topic": "NameSecondTopic",
+      "reciever": "CAT"
+    }
+  ]
+}
